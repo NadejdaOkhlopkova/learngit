@@ -1,0 +1,14 @@
+C:\Users\okhlopkova.n\Desktop\learnGit\IProger\IProger\bin\Debug\netcoreapp3.1\IProger.exe
+C:\Users\okhlopkova.n\Desktop\learnGit\IProger\IProger\bin\Debug\netcoreapp3.1\IProger.deps.json
+C:\Users\okhlopkova.n\Desktop\learnGit\IProger\IProger\bin\Debug\netcoreapp3.1\IProger.runtimeconfig.json
+C:\Users\okhlopkova.n\Desktop\learnGit\IProger\IProger\bin\Debug\netcoreapp3.1\IProger.runtimeconfig.dev.json
+C:\Users\okhlopkova.n\Desktop\learnGit\IProger\IProger\bin\Debug\netcoreapp3.1\IProger.dll
+C:\Users\okhlopkova.n\Desktop\learnGit\IProger\IProger\bin\Debug\netcoreapp3.1\IProger.pdb
+C:\Users\okhlopkova.n\Desktop\learnGit\IProger\IProger\obj\Debug\netcoreapp3.1\IProger.csproj.AssemblyReference.cache
+C:\Users\okhlopkova.n\Desktop\learnGit\IProger\IProger\obj\Debug\netcoreapp3.1\IProger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\okhlopkova.n\Desktop\learnGit\IProger\IProger\obj\Debug\netcoreapp3.1\IProger.AssemblyInfoInputs.cache
+C:\Users\okhlopkova.n\Desktop\learnGit\IProger\IProger\obj\Debug\netcoreapp3.1\IProger.AssemblyInfo.cs
+C:\Users\okhlopkova.n\Desktop\learnGit\IProger\IProger\obj\Debug\netcoreapp3.1\IProger.csproj.CoreCompileInputs.cache
+C:\Users\okhlopkova.n\Desktop\learnGit\IProger\IProger\obj\Debug\netcoreapp3.1\IProger.dll
+C:\Users\okhlopkova.n\Desktop\learnGit\IProger\IProger\obj\Debug\netcoreapp3.1\IProger.pdb
+C:\Users\okhlopkova.n\Desktop\learnGit\IProger\IProger\obj\Debug\netcoreapp3.1\IProger.genruntimeconfig.cache

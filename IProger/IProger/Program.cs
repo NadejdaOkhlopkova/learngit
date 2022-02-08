@@ -3,6 +3,8 @@
 namespace IProger
 {
     class Program
+	
+	
     {
         static void Main()
         {
